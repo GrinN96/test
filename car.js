@@ -1,0 +1,23 @@
+const carName="Audi";
+let maxCarSpeed="320";
+let carOwner="Kirill";
+
+maxCarSpeed="310";
+console.log('У машины изменилась скорость',maxCarSpeed);
+carOwner="Daniil";
+console.log('У машины изменился владелец',carOwner);
+maxCarSpeed="350";
+console.log('У машины изменилась скорость',maxCarSpeed);
+carOwner="Dima";
+console.log('У машины изменился владелец',carOwner);
+maxCarSpeed="290";
+console.log('У машины изменилась скорость',maxCarSpeed);
+carOwner="Oleg";
+console.log('У машины изменился владелец',carOwner);
+maxCarSpeed="300";
+console.log('У машины изменилась скорость',maxCarSpeed);
+carOwner="Max";
+console.log('У машины изменился владелец',carOwner);
+alert(carName);
+alert(carOwner);
+alert(maxCarSpeed);
